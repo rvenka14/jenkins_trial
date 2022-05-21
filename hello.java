@@ -1,7 +1,7 @@
 // Your First Program
 
-class HelloWorld {
+class hello {
     public static void main(String[] args) {
-        System.out.println("Hello, Modified-1 World!"); 
+        System.out.println("Hello,World - ubuntu trial!"); 
     }
 }
